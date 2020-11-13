@@ -40,6 +40,28 @@ a:hover {
   color: #666666;
 }
 
+.fontName {
+  font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 28px;
+
+color: #3D3D3D;
+}
+
+.fontDrink {
+  font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+
+/* gray -1 */
+
+color: #989898;
+}
+
 .paddingHeader {
   padding-right: 40px;
 }
