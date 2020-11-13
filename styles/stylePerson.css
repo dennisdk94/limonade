@@ -10,6 +10,7 @@ button {
 a {
   text-decoration: none;
   color: #000000;
+  transition: color 0.2s;
 }
 
 a:hover {
@@ -95,6 +96,11 @@ header ul li {
   border-radius: 8px;
 }
 
+.linkedin {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
 .photo {
   padding: 100px 80px 0 80px;
 }
@@ -123,6 +129,7 @@ button {
   margin: 38px 0 100px 157px;
 
 }
+
 
 .info {
   padding-right: 80px;
