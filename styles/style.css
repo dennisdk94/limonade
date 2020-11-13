@@ -116,6 +116,9 @@ div.menu-itens {
 div.menu-itens h1 {
   text-align: center;
   padding-top: 60px;
+  padding-bottom: 40px;
+
+  font-size: 36px;
 }
 
 div.menu-itens a {

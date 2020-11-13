@@ -96,6 +96,11 @@ header ul li {
   border-radius: 8px;
 }
 
+.border a:hover {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
 .linkedin {
   text-decoration: none;
   color: #FFFFFF;
@@ -109,6 +114,7 @@ button {
   width: 253px;
   height: 60px;
   background: #9F9F3D;
+  border: none;
   border-radius: 8px;
 
   display: flex;
@@ -128,6 +134,12 @@ button {
 
   margin: 38px 0 100px 157px;
 
+  transition: background 0.2s;
+
+}
+
+button:hover {
+  background: #85853d;
 }
 
 
